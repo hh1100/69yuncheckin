@@ -1,6 +1,6 @@
 name: Python CI 2
 
-on:
+//on:
   # 每天0点1分触发（UTC时间）
   schedule:
     - cron: '1 0 * * *'
